@@ -250,7 +250,7 @@ void sistema(){
                     cin.get();
                     break;
                 case ID14:{
-                	///Eliminar tabla
+                	///Shell
 					string comando="";
 					string database;
 					do{
